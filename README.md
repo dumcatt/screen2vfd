@@ -1,5 +1,5 @@
 # screen2vfd
-desktop to GP1232A02
+desktop to GP1232A02 (or the SEGA eMoney terminal)
 
 ![image](img.png)
 
